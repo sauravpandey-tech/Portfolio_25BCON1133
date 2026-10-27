@@ -1,4 +1,4 @@
-# Personal Portfolio — Rudrah Sharma
+# Personal Portfolio — Saurabh
 
 A personal portfolio website showcasing my background as a Computer Science Engineering student at JECRC University, Jaipur, Rajasthan, India. It highlights my technical skills, programming projects, and interest in software development.
 
@@ -68,9 +68,9 @@ portfolio/
 
 | Project | Description | Technologies |
 |---|---|---|
-| [C++ to Python Program Conversion](https://github.com/rudrahsharma008/python-basics-25bcon1073) | Programming exercises covering factorials, Fibonacci series, and structure-to-dictionary conversion. | C++, Python |
-| [Python Debugging and Testing](https://github.com/rudrahsharma008/Buggy_Python_Code_25BCON1073) | Debugging Python code and verifying corrected behavior with tests. | Python |
-| [Python Code Refactoring](https://github.com/rudrahsharma008/messy_25BCON1073) | Refactoring code to improve readability while preserving intended behavior. | Python, Cursor AI |
+| [C++ to Python Program Conversion](https://github.com/sauravpandey-tech/python-basics-25bcon1133) | Programming exercises covering factorials, Fibonacci series, and structure-to-dictionary conversion. | C++, Python |
+| [Python Debugging and Testing](https://github.com/sauravpandey-tech/Buggy_Python_Code_25BCON1133) | Debugging Python code and verifying corrected behavior with tests. | Python |
+| [Python Code Refactoring](https://github.com/sauravpandey-tech/messy_25BCON1133) | Refactoring code to improve readability while preserving intended behavior. | Python, Cursor AI |
 | [Quiz App](https://github.com/rudrahsharma008/python-basics-25bcon1073) | Interactive quiz application. | HTML, CSS, JavaScript |
 | [Reading Book App](https://github.com/rudrahsharma008/reading-list) | Web application for recording books read and tracking reading progress. | HTML, CSS, JavaScript |
 
